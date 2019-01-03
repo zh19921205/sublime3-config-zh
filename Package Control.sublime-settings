@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"auto-save",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Extended Completions",
+		"CSS3",
+		"Ecmascript Syntax",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}

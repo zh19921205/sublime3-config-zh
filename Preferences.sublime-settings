@@ -1,0 +1,24 @@
+{
+	"afn_valid_scopes":
+	[
+		"string",
+		"css",
+		"sass",
+		"less",
+		"scss",
+		".html",
+		".js",
+		".vue"
+	],
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
+	"draw_white_space": "all",
+	"expand_tabs_on_save": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 2,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
